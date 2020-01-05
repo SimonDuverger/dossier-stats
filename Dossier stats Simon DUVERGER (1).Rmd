@@ -1,0 +1,165 @@
+---
+title: "Dossier"
+author: "simon"
+date: "05 01 2020"
+output: html_document
+---
+
+# Projet final Simon DUVERGER
+#############################
+
+# QUESTION 1
+
+#le jeu de données que j'ai choisi est celui de mon mémoire de m1. Les données
+# intéréssantes pour ma recherche ont déjà été exploité. Pour les besoins de ce travail
+# nous n'avons gardé qu'une partie des données afin de faire le travail exploratoire
+# et descriptif demandé. Les données que nous avons gardées nous permettent de
+# voir si les sujets ont déjà entendu une variété de clitiques dite "normée" (le-moi)
+# ou une variété "non-normee" (moi-le) ou une variété "sud-ouest" (me-le). Nous n'avons
+# gardé que les lignes ou les sujets ont répondu "oui" à "entendu" (1) et nous pouvons 
+# donc voir si ces réponses dépendent de l'âge, du sexe ou de la région d'origine des 
+# sujets
+
+# nous allons maintenant voir ce qui peut être compris grâce à notre jeu de données
+# et essayer de répondre à différentes questions
+
+# avant de commencer il faut ouvrir les bibliothèques
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(car)
+library(FSA)
+# je défini d'abord le repertoire de travail:
+# menu : Session, Set working directory, to source file location
+# j'ouvre le fichier au format csv
+# j'execute ceci ou en cliquant sur Run:
+tableau <- read.csv(file="data.csv",sep=",",head=TRUE)
+# j'ai un tableau qui apparait (que j'ai nommé "tableau")
+#######################################
+
+#QUESTION 2
+
+# je vais donner une caractérisation de la distribution pour l'âge 
+# qui est variable aléatoire 
+# AGE
+# on va d'abord voir par le graphique si la distribution suit la loi normale
+ggplot(data = tableau) +
+  geom_bar(mapping = aes(x = age))
+# on voit que la distribution ne semble pas suivre la loi normale, même si quand on
+# regarde les age les plus bas la distribution en a la forme
+# nous allons donc faire en plus un shapiro test afin de vérifier comment est la
+# distribution, puisque nous avons des valeurs numériques.
+shapiro.test(tableau$age)
+# la p-value est significatives 
+# (p-value < 2.2e-16)
+# grâce au graphique et au shapiro test on voit que l'age ne suit pas la distribution
+# normale. ceci correspond à ce qui est prévu car nous avions majoritairement des 
+# étudiants qui ont passé notre expérience.
+# REGION
+# pour les régions nous ne pouvons pas vérifié si cela suit la loi normale car 
+# ce ne sont pas des données qui s'y pretent (ce n'est pas numérique ou hierarchique)
+# en revanche nous pouvons faire un même type de graphique afin de voir si des 
+# régions sont plus répresentées que d'autres.
+ggplot(data = tableau) +
+  geom_bar(mapping = aes(x = region))
+# on voit simplement que la plupart des sujets viennent de la région sud-ouest, 
+# ce qui est normal puisque nous avons spécifiquement visé cette région afin de 
+# tester nos items comprenant la variété du "sud-ouest"
+# SEXE
+# pour le sexe nous ne pouvons pas non plus vérifier la distribution puisque cette 
+# variable ne s'y prête pas. Nous pouvons juste observer par la graphique la répartition
+ggplot(data = tableau) +
+  geom_bar(mapping = aes(x = sexe))
+# on constate alors simplement qu'il y a plus de femmes que d'hommes dans nos sujets
+##############################
+
+#QUESTION 3 et 4
+
+# une des questions que l'on peut se poser en voyant notre jeu de données est 
+# s'il y a un rapport entre l'âge et l'utilisation des variétés de clitiques
+
+# je trace une figure qui illustre la comparaison entre l'age et l'utilisation 
+# de la variante normée / non_normée / sud_ouest
+ggplot(tableau, aes(age, fill = type)) + geom_density(alpha = 0.2)
+
+# grâce au graphique on peut avoir quelques pistes et débuts de résultats qui peuvent 
+# nous indiquer par la suite sur quoi nous pouvons concentrer nos analyses
+
+# nous voyons par exemple que la variante sud ouest est utilisée par des personnes
+# d'âge légérement plus élevé que les deux autres variantes. On voit aussi que cette 
+# variante est peu représenté chez les âges moyens (autour de 40 ans), tandis que
+# les deux autres le sont un peu plus. 
+# Ce graphique nous permet également de voir que chez les jeunes, la variante normée
+# et la variante non-normée sont représentées à un niveau à peu près égal tandis
+# que la vairante du sud ouest l'est beaucoup moins, par contre, pour les personnes 
+# plus âgées, vers 60 ans; il ne semble pas vraiment y avoir une différence aussi 
+# importante entre les trois variantes.
+
+# une deuxième question que l'on peut se poser par rapport à notre jeu de données est
+# s'il y a une relation entre la région d'origine des sujets et l'utilisation des 
+#différetnes variétés de clitiques. 
+
+# nuage de points qui illustre le lien entre la variable region et la variable type
+plot(tableau$region,tableau$type,
+     main="Relation region type",
+     xlab="region",
+     ylab="type")
+
+# grâce à ce graphique on peut notamment voir un résultat auquel on s'attend. 
+# On voit que les personnes du sud-ouest ont logiquement plus entendu la variante
+# du sud ouest que les autres. Ce qui est intéréssant d'observer au détriment de quelle
+# autre variété ce fait cette utilisation de la variante sud-ouest. D'après le graphique,
+# il semble que pour la région sud ouest c'est la variante non normée qui est moins 
+# présente. 
+# On remarque aussi qu'une autre région présente un nombre plus élevé que les autres 
+# de la variété sud-ouest, c'est la région nord-ouest. Dans cette région, il semble 
+# cependant que la variété non-normée est présente à un niveau à peu près équivalent
+#à celui des autres région, et ce serait donc la variété normée qui serait moins 
+# présente. 
+# ce graphique nous permet de voir qu'à part cela il n'y a pas de réelle différence 
+# entre les différentes régions, les variétés sont à peu près également représentés
+# la région où la variété non-normée est la plus réprésenté est hors métrolpole mais 
+# c'est très léger et tous ces résultats ne sont qu'exploratoires et servent simplement 
+# à savoir où chercher pour les analyses plus profondes.
+
+# si on veut se poser une dernière quesiton par rapport à notre jeu de données, 
+# on pourrait se demander par exemple s'il y a un rapport entre le sexe et l'utilisation
+# des variantes.
+
+plot(tableau$sexe,tableau$type,
+     main="Relation sexe type",
+     xlab="sexe",
+     ylab="type")
+
+# ce graphique permet rapidement de voir qu'il ne semble pas vraiment y avoir de 
+# relation entre le sexe et l'ulilisation des variables, ou plutot que ces méthodes
+# et données ne nous permettent pas dele voir, il faudrait des analyses plus poussées.
+
+# pour illustrer notre jeu de données on peut calculer nos valeurs de bases pour 
+# la variable age, et les visualiser sur un graphique, ce qui nous donne :
+# moyenne
+mean(tableau$age)
+# mediane
+median(tableau$age)
+# age minimum
+min(tableau$age)
+# age maximum
+max(tableau$age)
+#  on peut voir cela sur un graphiaue
+hist(tableau$age, main = "Histogramme age", xlab = "age")
+abline(v = mean(tableau$age), col = "red")
+abline(v = median(tableau$age), col = "blue")
+# moyenne
+mean(tableau$age)
+# mediane
+median(tableau$age)
+# age minimum
+min(tableau$age)
+# age maximum
+max(tableau$age)
+#  on peut voir cela sur un graphiaue
+hist(tableau$age, main = "Histogramme age", xlab = "age")
+abline(v = mean(tableau$age), col = "red")
+abline(v = median(tableau$age), col = "blue")
+
+##############################

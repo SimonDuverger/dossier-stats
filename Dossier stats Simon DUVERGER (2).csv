@@ -1,0 +1,4187 @@
+age,region,sexe,type,entendu
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,sud_ouest,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,sud_ouest,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,sud_ouest,1
+21,Sud,female,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,sud_ouest,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,sud_ouest,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,sud_ouest,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,non_normee,1
+53,Paris et alentours,male,normee,1
+53,Paris et alentours,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+37,Nord,male,normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,normee,1
+37,Nord,male,normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,normee,1
+37,Nord,male,normee,1
+37,Nord,male,normee,1
+37,Nord,male,normee,1
+37,Nord,male,normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,normee,1
+37,Nord,male,non_normee,1
+37,Nord,male,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,sud_ouest,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,sud_ouest,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,sud_ouest,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,sud_ouest,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,non_normee,1
+21,Nord_Ouest,male,normee,1
+21,Nord_Ouest,male,sud_ouest,1
+21,Nord_Ouest,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+23,Nord,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+23,Nord,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+23,Nord,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+23,Nord,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+23,Nord,male,normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,non_normee,1
+23,Nord,male,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,sud_ouest,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,non_normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,normee,1
+24,Sud_Ouest,female,sud_ouest,1
+24,Sud_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,non_normee,1
+22,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,sud_ouest,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,sud_ouest,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,sud_ouest,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,non_normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,normee,1
+20,Paris et alentours,female,sud_ouest,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,sud_ouest,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,non_normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,sud_ouest,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,sud_ouest,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,sud_ouest,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,sud_ouest,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+54,Hors metropole,male,non_normee,1
+54,Hors metropole,male,non_normee,1
+54,Hors metropole,male,non_normee,1
+54,Hors metropole,male,non_normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,non_normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,normee,1
+54,Hors metropole,male,non_normee,1
+54,Hors metropole,male,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,sud_ouest,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,non_normee,1
+23,Nord_Ouest,male,normee,1
+23,Nord_Ouest,male,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,normee,1
+19,Nord_Ouest,female,non_normee,1
+19,Sud,female,normee,1
+19,Sud,female,non_normee,1
+19,Sud,female,normee,1
+19,Sud,female,non_normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+19,Sud,female,non_normee,1
+19,Sud,female,normee,1
+19,Sud,female,sud_ouest,1
+19,Sud,female,non_normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+19,Sud,female,non_normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+19,Sud,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,sud_ouest,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,sud_ouest,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,sud_ouest,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,sud_ouest,1
+21,Paris et alentours,female,non_normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,sud_ouest,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,sud_ouest,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,sud_ouest,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,non_normee,1
+33,Sud_Ouest,female,normee,1
+33,Sud_Ouest,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,non_normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,non_normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,non_normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,non_normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,non_normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+29,Hors metropole,male,normee,1
+20,Nord,female,normee,1
+20,Nord,female,non_normee,1
+20,Nord,female,normee,1
+20,Nord,female,normee,1
+20,Nord,female,normee,1
+20,Nord,female,normee,1
+20,Nord,female,normee,1
+20,Nord,female,non_normee,1
+20,Nord,female,normee,1
+20,Nord,female,non_normee,1
+20,Nord,female,normee,1
+20,Nord,female,non_normee,1
+20,Nord,female,normee,1
+20,Nord,female,non_normee,1
+20,Nord,female,normee,1
+20,Nord,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,non_normee,1
+32,Hors metropole,female,normee,1
+32,Hors metropole,female,non_normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+49,Nord,female,non_normee,1
+49,Nord,female,normee,1
+49,Nord,female,non_normee,1
+49,Nord,female,non_normee,1
+49,Nord,female,normee,1
+49,Nord,female,normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,sud_ouest,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,sud_ouest,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,non_normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,sud_ouest,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,normee,1
+31,Sud_Ouest,female,sud_ouest,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,non_normee,1
+40,Hors metropole,female,normee,1
+40,Hors metropole,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,non_normee,1
+38,Hors metropole,male,non_normee,1
+38,Hors metropole,male,non_normee,1
+38,Hors metropole,male,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,sud_ouest,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,sud_ouest,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,sud_ouest,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,normee,1
+23,Sud_Ouest,male,non_normee,1
+23,Sud_Ouest,male,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,normee,1
+23,Sud,male,normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+23,Sud,male,normee,1
+23,Sud,male,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,non_normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,sud_ouest,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,non_normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,non_normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,normee,1
+21,Sud_Ouest,male,sud_ouest,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+27,Paris et alentours,male,non_normee,1
+27,Paris et alentours,male,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,non_normee,1
+25,Paris et alentours,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,non_normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,normee,1
+20,Sud_Ouest,female,sud_ouest,1
+20,Sud_Ouest,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,non_normee,1
+21,Paris et alentours,male,normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+40,Sud,female,non_normee,1
+40,Sud,female,normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,sud_ouest,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,sud_ouest,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,sud_ouest,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,normee,1
+47,Sud_Ouest,male,non_normee,1
+47,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,sud_ouest,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,sud_ouest,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,sud_ouest,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,non_normee,1
+19,Sud_Ouest,male,normee,1
+19,Sud_Ouest,male,sud_ouest,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,sud_ouest,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,sud_ouest,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,sud_ouest,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,sud_ouest,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,sud_ouest,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,sud_ouest,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,sud_ouest,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,non_normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,normee,1
+36,Sud_Ouest,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+20,Sud,female,normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,sud_ouest,1
+18,Sud,female,normee,1
+18,Sud,female,normee,1
+18,Sud,female,normee,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,sud_ouest,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,normee,1
+18,Sud,female,normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,non_normee,1
+18,Sud,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,sud_ouest,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,sud_ouest,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,non_normee,1
+20,Nord_Ouest,female,normee,1
+20,Nord_Ouest,female,sud_ouest,1
+20,Nord_Ouest,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,sud_ouest,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,non_normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+22,Nord,female,normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,sud_ouest,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,sud_ouest,1
+27,Sud_Ouest,female,non_normee,1
+27,Sud_Ouest,female,normee,1
+27,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,sud_ouest,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,sud_ouest,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,sud_ouest,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,sud_ouest,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,non_normee,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,non_normee,1
+82,Sud_Ouest,female,sud_ouest,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,non_normee,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,non_normee,1
+82,Sud_Ouest,female,sud_ouest,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,non_normee,1
+82,Sud_Ouest,female,sud_ouest,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,non_normee,1
+82,Sud_Ouest,female,normee,1
+82,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,non_normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,normee,1
+22,Sud_Ouest,male,sud_ouest,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,non_normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,normee,1
+24,Nord_Ouest,female,non_normee,1
+24,Nord_Ouest,female,normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,sud_ouest,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,non_normee,1
+57,Sud_Ouest,male,sud_ouest,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,non_normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,non_normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,sud_ouest,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,non_normee,1
+57,Sud_Ouest,male,normee,1
+57,Sud_Ouest,male,non_normee,1
+57,Sud_Ouest,male,sud_ouest,1
+60,Sud_Ouest,female,non_normee,1
+60,Sud_Ouest,female,normee,1
+60,Sud_Ouest,female,normee,1
+60,Sud_Ouest,female,sud_ouest,1
+60,Sud_Ouest,female,normee,1
+60,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,sud_ouest,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,sud_ouest,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,sud_ouest,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,normee,1
+52,Sud_Ouest,female,non_normee,1
+52,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,non_normee,1
+18,Sud_Ouest,female,normee,1
+18,Sud_Ouest,female,sud_ouest,1
+18,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,sud_ouest,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,sud_ouest,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,normee,1
+46,Sud_Ouest,female,non_normee,1
+46,Sud_Ouest,female,sud_ouest,1
+46,Sud_Ouest,female,normee,1
+37,Nord,female,non_normee,1
+37,Nord,female,non_normee,1
+37,Nord,female,normee,1
+37,Nord,female,non_normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,non_normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,non_normee,1
+37,Nord,female,normee,1
+37,Nord,female,non_normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+37,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,sud_ouest,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,sud_ouest,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,sud_ouest,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+46,Nord,female,non_normee,1
+46,Nord,female,normee,1
+46,Nord,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,non_normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,non_normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,non_normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,non_normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,non_normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,normee,1
+21,Nord_Ouest,female,non_normee,1
+21,Nord_Ouest,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,sud_ouest,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,sud_ouest,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+18,Nord,female,normee,1
+18,Nord,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,sud_ouest,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,normee,1
+22,Sud_Ouest,female,non_normee,1
+22,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,normee,1
+23,Sud_Ouest,female,non_normee,1
+23,Sud_Ouest,female,sud_ouest,1
+23,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,non_normee,1
+55,Sud_Ouest,female,normee,1
+55,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,sud_ouest,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,sud_ouest,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,non_normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,non_normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,non_normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,non_normee,1
+56,Hors metropole,female,sud_ouest,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,non_normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,sud_ouest,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,normee,1
+56,Hors metropole,female,sud_ouest,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+73,Sud,female,normee,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+73,Sud,female,normee,1
+73,Sud,female,sud_ouest,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+73,Sud,female,normee,1
+73,Sud,female,non_normee,1
+73,Sud,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,non_normee,1
+21,Hors metropole,female,non_normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,non_normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,non_normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,non_normee,1
+21,Hors metropole,female,normee,1
+21,Hors metropole,female,non_normee,1
+21,Hors metropole,female,normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,sud_ouest,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,non_normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,sud_ouest,1
+62,Sud_Ouest,female,non_normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,non_normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,non_normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,non_normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,normee,1
+62,Sud_Ouest,female,sud_ouest,1
+62,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+22,Nord,male,normee,1
+22,Nord,male,normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+22,Nord,male,non_normee,1
+22,Nord,male,normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,sud_ouest,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,sud_ouest,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,non_normee,1
+44,Sud_Ouest,female,normee,1
+44,Sud_Ouest,female,sud_ouest,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,sud_ouest,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,sud_ouest,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,sud_ouest,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,non_normee,1
+22,Sud,female,normee,1
+22,Sud,female,sud_ouest,1
+22,Sud,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,normee,1
+30,Nord,female,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,non_normee,1
+23,Hors metropole,male,normee,1
+23,Hors metropole,male,normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,sud_ouest,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,sud_ouest,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,normee,1
+58,Sud_Ouest,male,non_normee,1
+58,Sud_Ouest,male,sud_ouest,1
+58,Sud_Ouest,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+53,Nord,male,normee,1
+53,Nord,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+53,Nord,male,normee,1
+53,Nord,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+53,Nord,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+53,Nord,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+53,Nord,male,non_normee,1
+53,Nord,male,normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,sud_ouest,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,sud_ouest,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,normee,1
+45,Sud_Ouest,female,non_normee,1
+45,Sud_Ouest,female,sud_ouest,1
+45,Sud_Ouest,female,normee,1
+45,Nord,female,non_normee,1
+45,Nord,female,normee,1
+45,Nord,female,non_normee,1
+45,Nord,female,normee,1
+45,Nord,female,normee,1
+45,Nord,female,non_normee,1
+45,Nord,female,normee,1
+45,Nord,female,normee,1
+45,Nord,female,non_normee,1
+45,Nord,female,normee,1
+45,Nord,female,normee,1
+45,Nord,female,normee,1
+28,Sud,male,normee,1
+28,Sud,male,non_normee,1
+28,Sud,male,normee,1
+28,Sud,male,non_normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,non_normee,1
+28,Sud,male,normee,1
+28,Sud,male,non_normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,normee,1
+28,Sud,male,non_normee,1
+28,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+42,Sud,male,normee,1
+42,Sud,male,non_normee,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,non_normee,1
+57,Sud_Ouest,female,sud_ouest,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,non_normee,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,sud_ouest,1
+57,Sud_Ouest,female,non_normee,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,sud_ouest,1
+57,Sud_Ouest,female,normee,1
+57,Sud_Ouest,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+20,Sud,female,normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,non_normee,1
+20,Sud,female,normee,1
+20,Sud,female,sud_ouest,1
+55,Nord_Ouest,female,non_normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,non_normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,sud_ouest,1
+55,Nord_Ouest,female,non_normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,non_normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,non_normee,1
+55,Nord_Ouest,female,normee,1
+55,Nord_Ouest,female,sud_ouest,1
+61,Sud_Ouest,female,non_normee,1
+61,Sud_Ouest,female,sud_ouest,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,sud_ouest,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,non_normee,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,non_normee,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,sud_ouest,1
+61,Sud_Ouest,female,non_normee,1
+61,Sud_Ouest,female,non_normee,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,normee,1
+61,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,normee,1
+19,Sud_Ouest,female,non_normee,1
+19,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,sud_ouest,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,sud_ouest,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,sud_ouest,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,sud_ouest,1
+63,Sud_Ouest,female,non_normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,normee,1
+63,Sud_Ouest,female,sud_ouest,1
+63,Sud_Ouest,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,non_normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,non_normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,non_normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,normee,1
+38,Paris et alentours,female,non_normee,1
+38,Paris et alentours,female,normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,sud_ouest,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,non_normee,1
+19,Paris et alentours,male,normee,1
+19,Paris et alentours,male,normee,1
+22,Paris et alentours,female,non_normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,non_normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+22,Paris et alentours,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,sud_ouest,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+21,Nord,female,non_normee,1
+21,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,non_normee,1
+31,Nord,female,normee,1
+31,Nord,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,normee,1
+23,Sud,female,normee,1
+23,Sud,female,non_normee,1
+23,Sud,female,normee,1
+23,Sud,female,normee,1
+23,Sud,female,normee,1
+23,Sud,female,normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,sud_ouest,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+60,Paris et alentours,female,non_normee,1
+60,Paris et alentours,female,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,non_normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+21,Paris et alentours,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+53,Nord,female,non_normee,1
+53,Nord,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,sud_ouest,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,normee,1
+43,Paris et alentours,female,non_normee,1
+43,Paris et alentours,female,sud_ouest,1
+51,Sud,female,normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,normee,1
+51,Sud,female,normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,normee,1
+51,Sud,female,non_normee,1
+51,Sud,female,normee,1
+51,Sud,female,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,sud_ouest,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,sud_ouest,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,sud_ouest,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,non_normee,1
+58,Nord_Ouest,male,normee,1
+58,Nord_Ouest,male,sud_ouest,1
+58,Nord_Ouest,male,non_normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,non_normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,non_normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,non_normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+30,Paris et alentours,female,normee,1
+75,Nord,female,non_normee,1
+75,Nord,female,normee,1
+75,Nord,female,sud_ouest,1
+75,Nord,female,non_normee,1
+75,Nord,female,normee,1
+75,Nord,female,normee,1
+75,Nord,female,non_normee,1
+75,Nord,female,normee,1
+75,Nord,female,normee,1
+75,Nord,female,normee,1
+75,Nord,female,non_normee,1
+75,Nord,female,normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,normee,1
+23,Paris et alentours,female,non_normee,1
+71,Sud,male,non_normee,1
+71,Sud,male,normee,1
+71,Sud,male,non_normee,1
+71,Sud,male,normee,1
+71,Sud,male,normee,1
+71,Sud,male,non_normee,1
+71,Sud,male,normee,1
+71,Sud,male,non_normee,1
+71,Sud,male,normee,1
+71,Sud,male,normee,1
+71,Sud,male,normee,1
+71,Sud,male,non_normee,1
+71,Sud,male,normee,1
+71,Sud,male,normee,1
+71,Sud,male,non_normee,1
+71,Sud,male,normee,1
+71,Sud,male,normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,non_normee,1
+65,Sud_Ouest,male,sud_ouest,1
+65,Sud_Ouest,male,non_normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,sud_ouest,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,non_normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,non_normee,1
+65,Sud_Ouest,male,sud_ouest,1
+65,Sud_Ouest,male,non_normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,non_normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,normee,1
+65,Sud_Ouest,male,sud_ouest,1
+65,Sud_Ouest,male,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,sud_ouest,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,normee,1
+27,Paris et alentours,female,non_normee,1
+27,Paris et alentours,female,sud_ouest,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,non_normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,non_normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,non_normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,non_normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,non_normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,normee,1
+51,Paris et alentours,female,non_normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,non_normee,1
+63,Nord,male,normee,1
+63,Nord,male,sud_ouest,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,sud_ouest,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,sud_ouest,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,non_normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+55,Nord,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,sud_ouest,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,sud_ouest,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,sud_ouest,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,non_normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,normee,1
+56,Sud_Ouest,female,sud_ouest,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,sud_ouest,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,sud_ouest,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,sud_ouest,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,non_normee,1
+64,Sud_Ouest,female,normee,1
+64,Sud_Ouest,female,sud_ouest,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,sud_ouest,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,non_normee,1
+26,Paris et alentours,female,normee,1
+26,Paris et alentours,female,normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,sud_ouest,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,sud_ouest,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,normee,1
+58,Paris et alentours,female,non_normee,1
+58,Paris et alentours,female,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,sud_ouest,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,non_normee,1
+25,Sud_Ouest,female,normee,1
+25,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,non_normee,1
+21,Sud_Ouest,female,sud_ouest,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+22,Paris et alentours,male,non_normee,1
+22,Paris et alentours,male,normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,non_normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+24,Sud,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,non_normee,1
+18,Paris et alentours,female,normee,1
+18,Paris et alentours,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+21,Sud,female,normee,1
+21,Sud,female,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+29,Nord,female,non_normee,1
+29,Nord,female,normee,1
+29,Nord,female,normee,1
+29,Nord,female,normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,sud_ouest,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+41,Nord,female,non_normee,1
+41,Nord,female,normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,sud_ouest,1
+64,Sud,male,normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,sud_ouest,1
+64,Sud,male,normee,1
+64,Sud,male,normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,sud_ouest,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+64,Sud,male,normee,1
+64,Sud,male,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+56,Paris et alentours,female,non_normee,1
+56,Paris et alentours,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+29,Sud,female,normee,1
+29,Sud,female,non_normee,1
+49,Sud,female,normee,1
+49,Sud,female,normee,1
+49,Sud,female,non_normee,1
+49,Sud,female,normee,1
+49,Sud,female,non_normee,1
+49,Sud,female,normee,1
+49,Sud,female,normee,1
+49,Sud,female,non_normee,1
+49,Sud,female,normee,1
+49,Sud,female,non_normee,1
+49,Sud,female,normee,1
+49,Sud,female,normee,1
+49,Sud,female,non_normee,1
+49,Sud,female,normee,1
+49,Sud,female,normee,1
+49,Sud,female,normee,1
+49,Sud,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,non_normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+24,Nord,female,normee,1
+59,Sud,female,normee,1
+59,Sud,female,normee,1
+59,Sud,female,normee,1
+59,Sud,female,normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,non_normee,1
+59,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,non_normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,non_normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,non_normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,non_normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,normee,1
+54,Nord_Ouest,male,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,normee,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,sud_ouest,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,sud_ouest,1
+27,Sud,female,normee,1
+27,Sud,female,non_normee,1
+27,Sud,female,normee,1
+27,Sud,female,normee,1
+27,Sud,female,normee,1
+27,Sud,female,sud_ouest,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,non_normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+39,Sud,female,normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+43,Nord,female,normee,1
+43,Nord,female,normee,1
+43,Nord,female,non_normee,1
+32,Nord,male,normee,1
+32,Nord,male,non_normee,1
+32,Nord,male,normee,1
+32,Nord,male,non_normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,non_normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+32,Nord,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,normee,1
+25,Sud_Ouest,male,non_normee,1
+25,Sud_Ouest,male,sud_ouest,1
+25,Sud_Ouest,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+25,Sud,male,normee,1
+25,Sud,male,normee,1
+25,Sud,male,non_normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,non_normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+24,Sud,male,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,sud_ouest,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,sud_ouest,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,normee,1
+60,Nord_Ouest,female,non_normee,1
+60,Nord_Ouest,female,sud_ouest,1
